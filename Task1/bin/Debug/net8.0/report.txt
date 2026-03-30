@@ -1,0 +1,5 @@
+﻿Файл    : C:\Users\kiber\source\repos\PracticalW3\Task1\bin\Debug\net8.0\story.txt
+Рядків  : 5
+Слів    : 34
+Символів: 201
+Дата    : 30.03.2026 19:03:25
