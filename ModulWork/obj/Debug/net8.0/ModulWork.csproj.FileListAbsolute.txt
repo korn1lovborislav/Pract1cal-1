@@ -1,0 +1,14 @@
+C:\Users\kiber\source\repos\Modul\ModulWork\bin\Debug\net8.0\ModulWork.exe
+C:\Users\kiber\source\repos\Modul\ModulWork\bin\Debug\net8.0\ModulWork.deps.json
+C:\Users\kiber\source\repos\Modul\ModulWork\bin\Debug\net8.0\ModulWork.runtimeconfig.json
+C:\Users\kiber\source\repos\Modul\ModulWork\bin\Debug\net8.0\ModulWork.dll
+C:\Users\kiber\source\repos\Modul\ModulWork\bin\Debug\net8.0\ModulWork.pdb
+C:\Users\kiber\source\repos\Modul\ModulWork\obj\Debug\net8.0\ModulWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiber\source\repos\Modul\ModulWork\obj\Debug\net8.0\ModulWork.AssemblyInfoInputs.cache
+C:\Users\kiber\source\repos\Modul\ModulWork\obj\Debug\net8.0\ModulWork.AssemblyInfo.cs
+C:\Users\kiber\source\repos\Modul\ModulWork\obj\Debug\net8.0\ModulWork.csproj.CoreCompileInputs.cache
+C:\Users\kiber\source\repos\Modul\ModulWork\obj\Debug\net8.0\ModulWork.dll
+C:\Users\kiber\source\repos\Modul\ModulWork\obj\Debug\net8.0\refint\ModulWork.dll
+C:\Users\kiber\source\repos\Modul\ModulWork\obj\Debug\net8.0\ModulWork.pdb
+C:\Users\kiber\source\repos\Modul\ModulWork\obj\Debug\net8.0\ModulWork.genruntimeconfig.cache
+C:\Users\kiber\source\repos\Modul\ModulWork\obj\Debug\net8.0\ref\ModulWork.dll
