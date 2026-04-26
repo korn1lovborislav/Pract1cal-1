@@ -1,0 +1,11 @@
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\bin\Debug\net8.0\OnlineServiceLibrary.deps.json
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\bin\Debug\net8.0\OnlineServiceLibrary.dll
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\bin\Debug\net8.0\OnlineServiceLibrary.pdb
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\obj\Debug\net8.0\OnlineServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\obj\Debug\net8.0\OnlineServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\obj\Debug\net8.0\OnlineServiceLibrary.AssemblyInfo.cs
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\obj\Debug\net8.0\OnlineServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\obj\Debug\net8.0\OnlineServiceLibrary.dll
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\obj\Debug\net8.0\refint\OnlineServiceLibrary.dll
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\obj\Debug\net8.0\OnlineServiceLibrary.pdb
+C:\Users\kiber\source\repos\prac5\OnlineServiceLibrary\obj\Debug\net8.0\ref\OnlineServiceLibrary.dll

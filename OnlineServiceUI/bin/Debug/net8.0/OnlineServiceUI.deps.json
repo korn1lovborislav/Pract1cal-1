@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnlineServiceUI/1.0.0": {
+        "dependencies": {
+          "OnlineServiceLibrary": "1.0.0"
+        },
+        "runtime": {
+          "OnlineServiceUI.dll": {}
+        }
+      },
+      "OnlineServiceLibrary/1.0.0": {
+        "runtime": {
+          "OnlineServiceLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineServiceUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineServiceLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
