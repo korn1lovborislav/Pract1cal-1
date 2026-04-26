@@ -1,0 +1,18 @@
+﻿Виконання операції: <Run>b__0_0
+C# DOESN'T JUST AGE; IT MATURES WITH EVERY NEW VERSION.
+FROM LINQ TO RECORDS AND PATTERN MATCHING, IT KEEPS GETTING SHARPER.
+STAY CURIOUS, KEEP CODING, AND LET THE COMPILER DO THE HEAVY LIFTING.
+PD25
+
+Виконання операції: <Run>b__0_1
+Кількість символів: 55
+Кількість символів: 68
+Кількість символів: 69
+Кількість символів: 4
+
+Виконання операції: <Run>b__0_2
+Кількість слів: 10
+Кількість слів: 11
+Кількість слів: 12
+Кількість слів: 1
+
